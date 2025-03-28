@@ -6,7 +6,7 @@ from scoreboard import Scoreboard
 screen = Screen()
 screen.bgcolor("black")
 screen.title("Pong Game!!")
-screen.setup(width = 800, height = 600)
+screen.setup(width = 00, height = 600)
 screen.listen()
 screen.tracer(0)
 
