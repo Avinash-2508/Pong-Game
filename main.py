@@ -7,7 +7,7 @@ screen = Screen()
 screen.bgcolor("black")
 screen.title("Pong Game!!")
 screen.setup(width = 800, height = 600)
-screen.liste()
+screen.listen()
 screen.tracer(0)
 
 r_paddle = Paddle((380,0))
