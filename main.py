@@ -10,7 +10,7 @@ screen.setup(width = 800, height = 600)
 screen.listen()
 screen.tracer(0)
 
-r_paddle = Paddle((380,0))
+r_paddle = Paddle((380,0)
 l_paddle = Paddle((-380,0))
 ball = Ball()
 Scoreboard = Scoreboard()
