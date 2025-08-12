@@ -1,6 +1,6 @@
 from turtle import Turtle, Screen
 class Ball(Turtle):
-    def __init__(self):
+    def __init__(self)
         super().__init__()
         self.color("white")
         self.shape("circle")
@@ -27,5 +27,6 @@ class Ball(Turtle):
         self.move_speed = 0.1
         self.bounce_x()
         
+
 
 
