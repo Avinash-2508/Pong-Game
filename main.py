@@ -1,8 +1,8 @@
-from turtle import Turtle,Screen
+
 from paddle import Paddle
 from ball import Ball
 import time
-
+from scoreboard import Scoreboard
 screen = Screen()
 screen.bgcolor("black")
 screen.title("Pong Game!!")
@@ -43,6 +43,7 @@ while game_is_on:
 
 
 screen.exitonclick()
+
 
 
 
