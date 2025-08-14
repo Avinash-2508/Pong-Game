@@ -1,7 +1,7 @@
 from turtle import Turtle,Screen
 from paddle import Paddle
+from ball import Ball
 
-import time
 from scoreboard import Scoreboard
 screen = Screen()
 screen.bgcolor("black")
@@ -43,6 +43,7 @@ while game_is_on:
 
 
 screen.exitonclick()
+
 
 
 
