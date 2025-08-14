@@ -42,6 +42,7 @@ while game_is_on:
         Scoreboard.r_point()
 
 
+screen.exitonclick()
 
 
 
