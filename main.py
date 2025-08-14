@@ -1,5 +1,5 @@
-from turtle import Turtle,Screen;
-from paddle import Paddle;
+from turtle import Turtle,Screen
+from paddle import Paddle
 from ball import Ball
 import time
 from scoreboard import Scoreboard
@@ -43,4 +43,5 @@ while game_is_on:
 
 
 screen.exitonclick()
+
 
