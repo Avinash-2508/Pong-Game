@@ -32,15 +32,3 @@ class Ball(Turtle):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
