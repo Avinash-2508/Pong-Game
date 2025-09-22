@@ -5,7 +5,7 @@ import time
 from scoreboard import Scoreboard
 screen = Screen()
 screen.bgcolor("black")
-screen.title("Pong Game!!)
+screen.title("Pong Game!!")
 screen.setup(width = 800, height = 600)
 screen.listen()
 screen.tracer(0)
@@ -43,6 +43,7 @@ while game_is_on:
 
 
 screen.exitonclick()
+
 
 
 
